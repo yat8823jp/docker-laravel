@@ -31,6 +31,13 @@ Access for browser
 
 http://localhost:1234/adminer.php
 
+| item | value |
+| -- | -- |
+| Server | db |
+| User | root |
+| Password | root |
+| Database | testdb |
+
 ## Start Laravel
 
 Document root
